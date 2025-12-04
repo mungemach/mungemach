@@ -1,7 +1,7 @@
 <h1 align="center">Marcel Ungemach</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Webdeveloper-#fa7908?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webdeveloper-fa7908?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Petrolhead-CC4243?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Farmlife-32a852?style=for-the-badge" />
 </p>
