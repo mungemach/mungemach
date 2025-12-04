@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, ich bin **Marcel Ungemach** 👋
 
-<!--
-**mungemach/mungemach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Webentwickler · Autotuner · Landwirt**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich
+
+Ich bin ein leidenschaftlicher Webentwickler mit einem breiten Interesse an allem rund ums Web — aber gleichzeitig schlägt mein Herz auch für Autos und das Leben auf dem Land. Ich liebe es, Ideen in sauberen, performanten Code zu verwandeln und aus Visionen stabile Webseiten zu bauen. Dabei verliert sich nie meine Begeisterung für Autos und für das einfache Leben abseits der Bits & Bytes. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 💻 Skills & Tools
+
+- Moderne Webtechnologien (z. B. HTML, CSS, JavaScript — je nach Projekt)  
+- Webdesign & Responsive Layouts  
+- C(lean) Code & Performance-Fokus  
+- Projekt- & Ideenumsetzung — von der Idee bis zur fertigen Website  
+
+---
+
+## 🔧 Was ich mache
+
+| Bereich | Beschreibung |
+|--------|-------------|
+| **Webentwicklung & Webseiten** | Gestaltung und Entwicklung von modernen, sauberen Webseiten — individuell & mit Persönlichkeit |
+| **Full-Stack oder Frontend** | Je nach Projektanforderung: flexibel einsetzbar |
+| **Projekte mit Herzblut** | Ich baue nicht nur irgendwas — ich baue mit Leidenschaft und Persönlichkeit |
+| **Kreativität & Leidenschaft** | Ideen & Designs mit Blick fürs Praktische und mit Liebe fürs Handwerk (digital oder real) |
