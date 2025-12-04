@@ -13,9 +13,3 @@
   <a href="https://www.marcel-ungemach.de/?utm_source=github"><img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge" /></a>
   <a href="https://www.marcel-ungemach.de/?utm_source=github"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarcelUngemach/MarcelUngemach/main/assets/banner-dark.png" width="100%" alt="Banner" />
-</p>
