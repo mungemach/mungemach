@@ -3,17 +3,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Webdeveloper-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Creator-1f1f1f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gearhead-2d2d2d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Petrolhead-2d2d2d?style=for-the-badge" />
 </p>
 
 ---
 
 <div align="center">
-
-**Code. Maschinen. Projekte.**  
-**marcel-ungemach.de** →  
-<a href="https://www.marcel-ungemach.de/?utm_source=github">Website</a>
-
+  **Code. Maschinen. Projekte.**  
+  **marcel-ungemach.de** →  
+  <a href="https://www.marcel-ungemach.de/?utm_source=github">LinkedIn</a>
+  <a href="https://www.marcel-ungemach.de/?utm_source=github">Instagram</a>
+  <a href="https://www.marcel-ungemach.de/?utm_source=github">Website</a>
 </div>
 
 ---
