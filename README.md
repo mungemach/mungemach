@@ -11,9 +11,9 @@
 <div align="center">
   **Code. Maschinen. Projekte.**  
   **marcel-ungemach.de** →  
-  <a href="https://www.marcel-ungemach.de/?utm_source=github">LinkedIn</a>
-  <a href="https://www.marcel-ungemach.de/?utm_source=github">Instagram</a>
-  <a href="https://www.marcel-ungemach.de/?utm_source=github">Website</a>
+  <a href="https://www.marcel-ungemach.de/?utm_source=github"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
+  <a href="https://www.marcel-ungemach.de/?utm_source=github"><img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge" /></a>
+  <a href="https://www.marcel-ungemach.de/?utm_source=github"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
 </div>
 
 ---
