@@ -5,5 +5,5 @@
   <br>
   <a href="https://www.instagram.com/marcel.ungemach"><img src="https://img.shields.io/badge/Instagram-B22222?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <br>
-  <a href="https://www.marcel-ungemach.de"><img src="https://img.shields.io/badge/Website-4A0000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.marcel-ungemach.de"><img src="https://img.shields.io/badge/Website-4A0000?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 </div>
