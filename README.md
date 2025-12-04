@@ -1,31 +1,23 @@
-# Hey, ich bin **Marcel Ungemach** 👋
+<h1 align="center">Marcel Ungemach</h1>
 
-**Webentwickler · Autotuner · Landwirt**  
-
----
-
-## 🚀 Über mich
-
-Ich bin ein leidenschaftlicher Webentwickler mit einem breiten Interesse an allem rund ums Web — aber gleichzeitig schlägt mein Herz auch für Autos und das Leben auf dem Land. Ich liebe es, Ideen in sauberen, performanten Code zu verwandeln und aus Visionen stabile Webseiten zu bauen. Dabei verliert sich nie meine Begeisterung für Autos und für das einfache Leben abseits der Bits & Bytes.
+<p align="center">
+  <img src="https://img.shields.io/badge/Webdeveloper-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creator-1f1f1f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gearhead-2d2d2d?style=for-the-badge" />
+</p>
 
 ---
 
-## 💻 Skills & Tools
+<div align="center">
 
-- Shopify Theme Entwicklung
-- ABTesting
-- Pixelperfect Development
-- APIs, Fastshippable komplette Webprojekte
-- C(lean) Code & Performance-Fokus
-- Projekt- & Ideenumsetzung — von der Idee bis zur Fertigen Seite/Webapp
+**Code. Maschinen. Projekte.**  
+**marcel-ungemach.de** →  
+<a href="https://www.marcel-ungemach.de/?utm_source=github">Website</a>
+
+</div>
 
 ---
 
-## 🔧 Was ich mache
-
-| Bereich | Beschreibung |
-|--------|-------------|
-| **Webentwicklung & Webseiten** | Gestaltung und Entwicklung von modernen, sauberen Webseiten — individuell & mit Persönlichkeit |
-| **Full-Stack oder Frontend** | Je nach Projektanforderung: flexibel einsetzbar |
-| **Projekte mit Herzblut** | Ich baue nicht nur irgendwas — ich baue mit Leidenschaft und Persönlichkeit |
-| **Kreativität & Leidenschaft** | Ideen & Designs mit Blick fürs Praktische und mit Liebe fürs Handwerk (digital oder real) |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcelUngemach/MarcelUngemach/main/assets/banner-dark.png" width="100%" alt="Banner" />
+</p>
